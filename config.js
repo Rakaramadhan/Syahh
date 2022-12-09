@@ -49,31 +49,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
+global.sig = 'https://instagram.com/raka.ramadhan18108' // ig
 global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sgc = '-' // group whatsapp
+global.sdc = '-'//discord
+global.snh = 'https://www.youtube.com/channel/Khathehard' // my youtube channel
+global.sfb = '-' // facebook
+global.syt = 'https://www.youtube.com/Foxxy offc' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.pdana = '0882006212045' //dana
+global.povo = '0882006212045' //ovo
+global.pgopay = '0882006212045' //gopay
+global.plinkaja = '0882006212045' //link aja
+global.ppulsa = '0882006212045' //Smartfren
+global.ppulsa2 = '0882006212045' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6283193831650'
-global.namebot = 'AR-MODS-BOT-V3'
-global.nameown = 'AR MODS DEV'
+global.nomorbot = '62895386209243'
+global.nomorown = '62882006212045'
+global.namebot = 'Nakano-MD'
+global.nameown = 'KhaTheDarkness'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = '-' // nama github lu
+global.namagithub = 'https://github.com/Rakaramadhan' // nama github lu
 global.linkgithub = '-' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283193831650', 'AR MODS DEV', true],
+  ['62882006212045', 'KhaTheDarkness', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 AR-MODS-BOT-V3 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘AR-MODS-BOT-V3 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ AR-MODS-BOT-V3 '
+global.wm = '                「 KhaTheDarkness 」' //Main Watermark
+global.wm2 = 'Nakano-MD'
+global.wm3 = '⫹⫺ KhaXd '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By AR-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Nakano-Md`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 AR-MODS-BOT-V3  あ」'
+global.author = '                「 KhaTheDarkness  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
